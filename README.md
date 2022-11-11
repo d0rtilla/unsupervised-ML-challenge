@@ -1,6 +1,8 @@
 # unsupervised-ML-challenge
 This is a repository for the assignment of module #20 in my data analytics bootcamp.
 
+# Conclusion/Recommendation:
+I believe that the patients can be clustered together. The elbow curve shows that patients can be grouped into 3 clusters. The elbow curve flattens out after the '3' point in comparison to the slope of the curve at all points before it.
 
 # Myopia Clusters
 
